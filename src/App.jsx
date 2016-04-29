@@ -38,7 +38,7 @@ export default class App extends React.Component {
     });
 
     return (
-      <div className="col-md-2 col-md-offset-5" style={{marginTop: '80px'}}>
+      <div className="col-lg-2 col-lg-offset-5 col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3" style={{marginTop: '80px'}}>
         {/* Using default bootstrap css styles */}
         <div className="panel panel-default">
           <div className="panel-body">
